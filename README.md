@@ -1,1 +1,1 @@
-# EFI_intel_NUC
+# EFI_intel_NUC Opencore
